@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1 className="text-3xl font-graphik text-green-500">Hello Word Vite + React!</h1>
+      <h1 className="text-3xl bg-dark-background font-graphik text-primary">Hello Word Vite + React!</h1>
     </>
   )
 }
